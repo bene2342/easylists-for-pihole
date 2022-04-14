@@ -10,7 +10,7 @@ a.trend-online.it
 banner-madai-com.s3.amazonaws.com
 b.trovagnocca.com
 cdn.adultsadv.com
-cdn.da..ovh
+cdn.da.ovh
 click.html.it
 d1yhzddoi8ev99.cloudfront.net
 d2moz0h55szev9.cloudfront.net
